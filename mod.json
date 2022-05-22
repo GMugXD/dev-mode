@@ -2,9 +2,9 @@
 	"name": "dev-mode",
 	"displayName": "Developer Mode",
 	"author": "deltanedas",
-	"description": "Lets you type into the console.\nPress [stat]F8[] to open.",
+	"description": "Lets you type into the console.\nPress [stat]F8[] to open. lmao got edited",
 	"version": "3.3.2",
 	"hidden": true,
-	"minGameVersion": "136",
+	"minGameVersion": "126.2",
 	"repo": "deltanedas/dev-mode"
 }
